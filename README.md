@@ -1,16 +1,12 @@
-### Hi there 👋
-
-<!--
-**marcolw/marcolw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <br>
+  <br>
+  <br>
+  <br>
+  <img src="./tada.svg" width="60" height="60">
+  <h3>Hi there 👋 </h3>
+  <p>⚡ Fun fact: Python web framework Flask's mascot is horn flask, Bottle's mascot is flask. <a href="https://www.quora.com/Why-does-the-logo-of-Bottle-web-framework-look-like-Flask-Python-framework-Why-does-the-logo-of-Flask-Python-framework-not-look-like-a-flask">More</a></p>
+  <br>
+  <br>
+  <br>
+</div>
